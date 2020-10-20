@@ -1,0 +1,2406 @@
+@media screen and (max-width: 479px) {
+.test img{
+    height: 28px;
+    margin-left: 10px;
+}
+.tube-image img {
+	margin-top: 10px;
+    width:auto;
+    height: 28px;
+}
+.term li a{
+	font-size: 12px;
+}
+.slide-area1{
+	padding: 0px !important
+}
+.btn-space{
+	margin: 10px;
+}
+.channel-header-profile-image1{
+	background-size: cover;
+	height:50px;
+	width:50px;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+	margin:10px 0 10px 10px;
+}
+.st_channel_heading{
+	margin:5px 0 0 0;
+	font-size: 1em !important;
+}
+.subscriber-count{
+	font-size: 12px;
+}
+.btn-space{
+	margin:-7px 10px 10px 10px;
+}
+.yt-card{
+	margin-right: -15px !important;
+	margin-left: -15px !important;
+}
+.new-history1{
+	padding-top: 30px;
+}
+.history-image {
+    height:90px;
+}
+.recom-box .slide-image{
+	height: 110px !important;
+}
+.single-video-sec{
+	margin: 0 -15px;
+}
+.p-50{
+	padding-top: 50px !important;
+	padding-bottom: 50px !important; 
+}
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+.test img{
+    height:28px;
+    margin-left: 10px;
+}
+.tube-image img {
+	margin-top: 10px;
+    width:auto;
+    height: 28px;
+}
+.term li a{
+	font-size: 12px;
+}
+.channel-header-profile-image1{
+	background-size: cover;
+	height:60px;
+	width:60px;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+	margin:15px 0 15px 15px;
+}
+.st_channel_heading{
+	margin:10px 0 0 0;
+	font-size: 1.2em !important;
+}
+.btn-space{
+	margin:-10px 10px 20px 10px;
+}
+.yt-card{
+	margin-right: -30px !important;
+	margin-left: -30px !important;
+}
+.new-history1{
+	padding-top: 30px;
+}
+.history-image {
+    height:90px;
+}
+.single-video-sec{
+	margin: 0 -15px;
+}
+.p-50{
+	padding-top: 50px !important;
+	padding-bottom: 50px !important; 
+}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+.test img{
+    height: 35px;
+}
+.tube-image{
+	text-align: left;
+}
+.tube-image img {
+    width:auto;
+    height: 35px;
+    margin-top:2px;
+}
+.term li a{
+	font-size: 14px;
+}
+.channel-header-profile-image1{
+	background-size: cover;
+	height:80px;
+	width:80px;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+	margin:15px 0 15px 15px;
+}
+.st_channel_heading{
+	margin:22px 0 0 0;
+}
+.btn-space{
+	margin:-10px 10px 20px 10px;
+}
+.yt-card{
+	margin-right: -30px !important;
+	margin-left: -30px !important;
+}
+.new-history1{
+	padding-top: 30px;
+}
+.history-image {
+    height:90px;
+}
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+.history-image {
+    height: 100px;
+}
+.test img{
+    height: 35px;
+}
+.tube-image{
+	text-align: left;
+}
+.tube-image img {
+    width:auto;
+    height: 35px;
+    margin-top: 2px;
+}
+.term li a{
+	font-size: 14px;
+}
+.channel-header-profile-image1{
+	background-size: cover;
+	height:80px;
+	width:80px;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+	margin:15px 0 15px 15px;
+}
+.st_channel_heading{
+	margin:22px 0 0 0;
+}
+.btn-space{
+	margin:-10px 10px 15px 10px;
+}
+.yt-card{
+	margin-right: -30px !important;
+	margin-left: -30px !important;
+}
+.new-history1{
+	padding-top: 30px;
+}
+}
+
+@media (min-width: 1200px) and (max-width: 1439px) {
+.test img{
+    height: 35px;
+    margin-left: 10px;
+}
+.tube-image{
+	text-align: left;
+}
+.tube-image img {
+    width:auto;
+    height: 35px;
+    margin-top: 2px;
+}
+.term li a{
+	font-size: 14px;
+}
+.channel-header-profile-image1{
+	background-size: cover;
+	height:80px;
+	width:80px;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+	margin:15px 0 15px 15px;
+}
+.st_channel_heading{
+	margin:22px 0 0 0;
+}
+.btn-space{
+	margin:25px 10px 15px 10px;
+}
+.yt-card{
+	margin-right: -30px !important;
+	margin-left: -30px !important;
+}
+.new-history1{
+	padding-top: 30px;
+}
+.label-sec{
+	margin-top: 7px;
+	margin-bottom:4px !important;
+}
+}
+
+@media (min-width: 1440px) and (max-width: 1679px) {
+.test img{
+    height:38px;
+    margin-left: 10px;
+}
+.signup-nav{
+	padding: 15px;
+}
+.login-space{
+	padding:139px 15px 70px 15px;
+}
+.common-form{
+	max-width: 500px;
+}
+.login-common{
+	padding: 25px;
+}
+.signup-head h3{
+	font-size: 26px;
+	margin-bottom:20px;
+}
+.signup-form label{
+	font-size: 18px;
+}
+.signup-form input{
+	height: 42px;
+	font-size:16px;
+	margin-bottom: 20px;
+}
+.signup-form p{
+	font-size: 16px;
+}
+.signup-submit{
+	padding: 12px;
+	font-size:16px;
+	margin-bottom: 20px;
+}
+.footer1{
+	padding: 15px;
+}
+.tube-image img {
+    width:auto;
+    height: 38px;
+    margin-top: 2px;
+}
+.term li a{
+	font-size: 16px;
+}
+.streamtube-nav{
+	padding: 15px;
+}
+.y-menu{
+	padding-top:0px;
+}
+.page-inner{
+	padding-top:0px;
+}
+.logo-img{
+	max-width: 150px;
+	height: 35px;
+    vertical-align: middle;
+    margin-top: 1px;
+}
+.toggle-icon{
+	margin-top: 0;
+	height: 28px;
+}
+.y-signin .btn{
+	font-size: 16px;
+	margin-top: 2px;
+}
+.clear-button button{
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+#custom-search-input .search-query{
+	font-size: 16px;
+	height:41px;
+	margin-top: 2px;
+}
+.y-home img{
+	height: 30px;
+	width: 30px;
+}
+.y-home a, .menu4 p{
+	font-size: 16px;
+}
+.y-home h3, .menu-foot h3, .menu-foot-head{
+	font-size: 16px;
+	line-height: 1.6;
+}
+.menu-foot img{
+	height: 50px;
+}
+.menu4 button{
+	padding:6px 15px;
+    font-size: 16px;
+}
+.carousel-inner .item{
+	background-size: cover;
+	background-position: center;
+	height: 300px;
+	background-repeat:no-repeat;
+	width: 100%;
+}
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev{
+	width: 35px;
+    height: 35px;
+    margin-top: -10px;
+    font-size: 35px;
+}
+.banner-slider{
+	padding:0 60px;
+	margin-top:15px;
+}
+.slide-area{
+	padding: 0 40px !important;
+}
+.slide-area1{
+	padding: 0 25px !important;
+}
+.box-head h3{
+	margin: 20px 0 20px 4px;
+	font-size: 20px;
+}
+.slide-image{
+	height: 130px !important;
+}
+.video_duration, .video_amount{
+	font-size: 13px;
+	padding: 3px 6px;
+}
+.video-head a{
+	font-size: 1.2em !important;
+	line-height:24px;
+	margin-bottom: 6px;
+}
+.video_views{
+	font-size: 14px;
+}
+.slick-prev, .slick-next{
+	height: 50px;
+	width: 50px;
+}
+.slick-prev{
+	left: -35px;
+}
+.slick-next{
+	right: -35px;
+}
+.recom-box{
+	margin-top:20px;
+}
+.recom-head h3{
+	padding:20px 13px;
+	padding-bottom: 0;
+	margin:0;
+}
+.recom-details{
+	height:92px;
+}
+.content-head h4{
+	font-size: 20px;
+	margin-top:10px;
+	margin-bottom:20px;
+}
+.content-head{
+	margin-bottom: 20px;
+}
+.history-image{
+	max-height: 130px;
+}
+.history-head h5 a{
+	font-size: 1.35em;
+}
+.history-head h5{
+	margin-bottom: 8px !important;
+}
+.description p{
+	font-size: 14px;
+	margin-top: 6px;
+	line-height: 20px;
+	max-height: 38px;
+	margin-bottom:8px;
+}
+.sub-list{
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+.st_video_upload_btn{
+	font-size: 15px;
+	padding: 5px 15px;
+}
+.video-views-channel-name{
+	/*margin-bottom: 6px;*/
+}
+.cross-mark1 i{
+	font-size: 16px;
+}
+.gh-banner{
+	margin-right: -30px;
+	margin-left: -30px;
+}
+.channel-header-profile-image1{
+	background-size: cover;
+	height:80px;
+	width:80px;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+	margin:15px 0 15px 25px;
+}
+.st_channel_heading{
+	margin:20px 0 0 0;
+}
+.subscriber-count{
+	font-size: 16px;
+}
+.btn-space{
+	margin:25px 25px 15px 10px;
+}
+.yt-card{
+	margin-right: -40px !important;
+	margin-left: -40px !important;
+}
+.st_video_upload_btn{
+	padding: 8px 15px;
+	font-size: 16px;
+}
+#channel-subheader li > a, #channel-subheader .active > a{
+	font-size: 14px !important;
+}
+.branded-page-gutter-padding{
+	padding-left:25px !important;
+	padding-right: 25px !important;
+}
+.branded-page-module-title{
+	margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 18px !important;
+}
+.new-history1{
+	padding-top: 20px;
+}
+.abt-sec-head h5{
+	padding-top: 30px;
+	font-size: 16px;
+	line-height: 24px !important;
+}
+#c4-header-bg-container{
+	height:230px !important;
+}
+.content-head small{
+	font-size: 15px !important;
+}
+.label-sec{
+	margin-bottom:8px !important;
+}
+.label-sec .label{
+	font-size:90% !important;
+	padding: .4em .6em .4em !important;
+}
+.profile-content {
+    margin-top:30px !important;
+}
+.edit-head{
+	font-size: 28px;
+	margin-bottom:20px;
+}
+.profile-title h3{
+	font-size: 26px;
+}
+.profile-title h4{
+	font-size: 17px;
+	margin-bottom: 10px;
+}
+.profile-title p{
+	font-size: 16px;
+    margin-bottom: 7px;
+}
+.edit-pro-btn a{
+	padding: 8px 15px;
+	font-size: 16px;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
+	padding: 10px !important;
+	font-size: 16px;
+}
+.invoice-desc p{
+	font-size: 16px;
+}
+.payment-failure h4{
+	font-size: 22px;
+}
+.payment-failure p{
+	font-size: 16px;
+}
+.list-style li{
+	font-size: 16px;
+}
+.profile-view h3{
+	font-size: 28px;
+	margin-bottom: 20px;
+}
+.subscription-image{
+	height: 17em !important;
+}
+.caption h3{
+	font-size: 26px;
+}
+.subscription-desc p{
+	font-size: 16px;
+}
+.subscription-desc{
+	min-height: 130px;
+	max-height: 130px;
+}
+.mylist-head{
+	font-size: 24px;
+	padding-bottom: 15px;
+	margin-bottom: 20px;
+}
+.history-image{
+	min-height: 110px;
+	max-height: 110px;
+}
+.history-image img {
+    width: 100%;
+    height: 100%;
+    min-height: 110px;
+    object-fit: cover;
+    object-position: center;
+}
+.editform-content label{
+	font-size: 16px;
+    margin-bottom: 10px;
+}
+.editform-content .form-control{
+	height: 45px;
+}
+.editform-content .btn.btn-primary, .editform-content .btn.btn-danger{
+	padding: 10px 15px;
+	font-size: 16px;
+}
+.help-block, .mobile-note{
+	font-size: 16px;
+}
+.common-form{
+	margin-top: 60px !important;
+}
+.video_views a{
+	margin-bottom: 6px !important;
+	display: inline-block;
+}
+.cards-head{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.jp-card-container1{
+	height: 230px !important;
+}
+.note-sec{
+	font-size: 18px;
+}
+.card-title{
+	font-size: 20px;
+}
+.card-details h5{
+	font-size: 16px;
+}
+.input-group-signup input{
+	height: 45px;
+}
+.jp-card-container{
+	max-width: 550px !important;
+    height: 235px !important;
+}
+.jp-card.jp-card-identified{
+	margin-top: 20px !important;
+}
+.circle{
+	height: 170px !important;
+	width: 170px !important;
+}
+.circle__content{
+	font-size: 1.5em !important; 
+}
+.redeem-content{
+	font-size: 1.1em;
+	margin:2em 0 1em 0 !important;
+}
+.label{
+	padding:.4em .7em;
+	font-size: 80%;
+}
+.sub-history h3{
+	font-size: 22px;
+	margin-bottom: 10px;
+}
+.sub-history p{
+	font-size: 16px;
+}
+.sub-head h4{
+	font-size: 20px;
+}
+.sub-head p{
+	font-size: 16px;
+}
+.sub-desc{
+	height: 108px;
+}
+.sub-desc p{
+	font-size: 16px;
+}
+.sub-deatils{
+	font-size: 16px;
+}
+.ppv-video{
+	height: 150px;
+}
+.ppv-title{
+	font-size: 16px;
+	padding: 10px;
+}
+.ppv-view{
+	margin-top: 71px;
+	font-size: 16px;
+}
+.ppv-details p{
+	font-size: 16px;
+}
+.sugg-head1{
+	font-size: 20px;
+	padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+.suggn-title h5{
+	font-size: 14px;
+}
+.sugg-head .stars{
+	margin-top: 3px;
+    display: inline-block;
+}
+.title h3{
+	font-size: 20px;
+}
+.views{
+	font-size: 18px;
+	padding-top: 12px;
+}
+.thumb-class, .share-new{
+	font-size: 18px;
+}
+.mylist{
+	font-size: 18px;
+	line-height: unset;
+}
+.username{
+	font-size: 17px;
+}
+.video-desc, .category-name{
+	font-size: 17px !important;
+	line-height: 1.4;
+}
+.star-rating-active s, .star-rating-rtl-active s{
+	font-size: 16px;
+}
+#comment_form textarea{
+	font-size: 16px;
+	height: 75px !important;
+}
+.profile-button .dropdown-menu {
+    /*left: -135px;*/
+    font-size: 14px;
+    min-width: 175px;
+    right: 0;
+}
+.share-title,{
+	font-size: 20px;	
+}
+.copy-embed .modal-title, .video-title1{
+	font-size: 22px;
+}
+.new-subcription-history .space{
+	padding: 15px;
+}
+.new-subcription-history .space h4{
+	font-size: 20px;
+}
+.new-subcription-history .link, .new-subcription-history .price .period, .new-subcription-history h5,
+.subscription-desc-list p{
+	font-size:14px;
+}
+.upload-video-sec, .new-subs-card, .settings-card, .new-redeem-sec, .ppv-dashboard{
+	font-size: 16px;
+}
+}
+
+@media (min-width: 1680px) and (max-width: 1919px) {
+.test img{
+    height: 42px;
+    margin-left: 10px;
+}
+.signup-nav{
+	padding: 20px;
+}
+.login-space{
+	padding:163px 15px 80px 15px;
+}
+.common-form{
+	max-width: 600px;
+}
+.login-common{
+	padding: 35px;
+}
+.signup-head h3{
+	font-size: 30px;
+	margin-bottom:25px;
+}
+.signup-form label{
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+.signup-form input{
+	height: 48px;
+	font-size:18px;
+	margin-bottom: 25px;
+}
+.signup-form p{
+	font-size: 18px;
+}
+.signup-submit{
+	padding: 15px;
+	font-size:18px;
+	margin-bottom: 25px;
+}
+.tube-image img {
+    width:auto;
+    height: 42px;
+    margin-top: 2px;
+}
+.term li a{
+	font-size: 18px;
+}
+.streamtube-nav{
+	padding:20px;
+}
+.y-menu{
+	padding-top:86px;
+}
+.page-inner{
+	padding-top:86px;
+}
+.logo-img{
+	max-width: 162px;
+	height: 38px;
+    vertical-align: middle;
+    margin-top: 1px;
+}
+.toggle-icon{
+	margin-top: 0;
+	height:32px;
+}
+.y-signin{
+	font-size: 18px;
+    margin-top: 2px;
+    padding: 10px 20px;
+	height: 48px;
+}
+.btn{
+	font-size: 18px;
+    margin-top: 2px;
+    padding: 10px 20px;
+	height: 50px;
+}
+#update_video {
+	height:51px !important;
+}
+#search_submit_btn {
+	margin-top: 6px !important;
+	left: -28px !important;
+	
+}
+.clear-button button{
+	font-size: 18px;
+    padding: 10px 20px;
+    margin-bottom: 15px;
+}
+#custom-search-input .search-query{
+	font-size: 20px;
+    height: 45px;
+    margin-top: 6px;
+}
+.y-home img{
+	height: 35px;
+	width: 35px;
+}
+.y-home a{
+	font-size: 20px;
+}
+.menu4 p{
+	margin-top: 15px;
+	font-size: 20px;
+}
+.y-home h3, .menu-foot h3, .menu-foot-head{
+	font-size:20px;
+	line-height: 1.8;
+}
+.menu-foot img{
+	height:55px;
+}
+.menu4 button{
+	padding:6px 15px;
+    font-size:20px;
+    margin-top:15px;
+}
+.carousel-inner .item{
+	background-size: cover;
+	background-position: center;
+	height: 350px;
+	background-repeat:no-repeat;
+	width: 100%;
+}
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev{
+	width:40px;
+    height: 40px;
+    margin-top: -10px;
+    font-size: 40px;
+}
+.banner-slider{
+	padding:0 70px;
+	margin-top:15px;
+}
+.slide-area{
+	padding: 0 50px !important;
+}
+.slide-area1{
+	padding: 0 35px !important;
+}
+.box-head h3{
+	margin: 20px 0 20px 4px;
+	font-size: 22px;
+}
+.slide-image{
+	height: 100% !important;
+}
+.video_duration,  .video_amount{
+	font-size: 15px;
+	padding: 8px;
+}
+.video-head a{
+	font-size: 1.4em !important;
+	line-height:26px;
+	margin-bottom:10px;
+}
+.video_views{
+	font-size: 16px;
+}
+.slick-prev, .slick-next{
+	height: 60px;
+	width: 60px;
+}
+.slick-prev{
+	left: -40px;
+}
+.slick-next{
+	right: -40px;
+}
+.slick-prev:before, .slick-next:before{
+	font-size: 26px;
+}
+.recom-box{
+	margin-top:20px;
+}
+.recom-head h3{
+	padding:20px 13px;
+	padding-bottom: 0;
+	margin:0;
+}
+.recom-details{
+	height:107px;
+}
+.content-head h4{
+	font-size: 24px;
+	margin-top:15px;
+	margin-bottom:25px;
+}
+.content-head{
+	margin-bottom: 25px;
+}
+.history-image{
+	max-height: 140px;
+}
+.history-head h5 a{
+	font-size: 1.5em;
+}
+.history-head h5{
+	margin-bottom:15px !important;
+}
+.description p{
+	font-size: 16px;
+	margin-top: 11px;
+    line-height: 24px;
+    max-height: 45px;
+    margin-bottom: 10px;
+}
+.sub-list{
+	padding-bottom: 25px;
+	margin-bottom: 25px;
+}
+.st_video_upload_btn{
+	font-size:17px;
+	padding:7px 20px;
+}
+.video-views-channel-name{
+	/*margin-bottom:7px;*/
+}
+.cross-mark1 i{
+	font-size: 18px;
+}
+.channel-header-profile-image1{
+	background-size: cover;
+	height:80px;
+	width:80px;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+	margin:15px 0 15px 35px;
+}
+.st_channel_heading{
+	margin:18px 0 0 0;
+	font-size: 1.6em !important;
+}
+.subscriber-count{
+	font-size: 18px;
+}
+.btn-space{
+	margin:25px 35px 15px 10px;
+}
+.yt-card{
+	margin-right: -50px !important;
+	margin-left: -50px !important;
+}
+.st_video_upload_btn{
+	padding:10px 20px;
+	font-size: 17px;
+}
+#channel-subheader li > a, #channel-subheader .active > a{
+	font-size: 16px !important;
+	height: 36px !important;
+}
+.branded-page-gutter-padding{
+	padding-top: 15px;
+	padding-left: 35px !important;
+	padding-right: 35px !important;
+}
+.branded-page-module-title{
+	margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 20px !important;
+}
+.new-history1{
+	padding-top:15px;
+}
+.abt-sec-head h5{
+	padding-top: 30px;
+	font-size: 18px;
+	line-height: 26px !important;
+}
+#c4-header-bg-container{
+	height:270px !important;
+}
+.content-head small{
+	font-size: 17px !important;
+}
+.label-sec{
+	margin-bottom:13px !important;
+	margin-top: 12px;
+}
+.label-sec .label{
+	font-size:100% !important;
+	padding: .5em .8em .5em !important;
+}
+.edit-head{
+	font-size:30px;
+	margin-bottom:23px;
+}
+.profile-title h3{
+	font-size:28px;
+}
+.profile-title h4{
+	font-size:19px;
+	margin-bottom: 15px;
+}
+.profile-title p{
+	font-size:18px;
+    margin-bottom:10px;
+}
+.edit-pro-btn a{
+	padding:10px 20px;
+	font-size:18px;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
+	padding: 10px !important;
+	font-size: 18px;
+}
+.invoice-desc p{
+	font-size: 18px;
+}
+.payment-failure h4{
+	font-size: 24px;
+}
+.payment-failure p{
+	font-size: 18px;
+}
+.list-style li{
+	font-size: 18px;
+}
+.profile-view h3{
+	font-size:32px;
+	margin-bottom: 20px;
+}
+.subscription-image{
+	height:19em !important;
+}
+.caption h3{
+	font-size:28px;
+}
+.subscription-desc p{
+	font-size:18px;
+}
+.subscription-desc{
+	min-height: 159px;
+	max-height: 159px;
+}
+.mylist-head{
+	font-size: 16px;
+	padding-bottom: 15px;
+	margin-bottom: 20px;
+}
+.history-image{
+	min-height: 120px;
+	max-height: 120px;
+}
+.history-image img {
+    width: 100%;
+    height: 100%;
+    min-height: 120px;
+    object-fit: cover;
+    object-position: center;
+}
+.editform-content label{
+	font-size:18px;
+    margin-bottom: 10px;
+}
+.editform-content .form-control{
+	height: 50px;
+}
+.editform-content .btn.btn-primary, .editform-content .btn.btn-danger{
+	padding: 12px 20px;
+	font-size: 18px;
+}
+.help-block, .mobile-note{
+	font-size:18px;
+	margin-bottom: 15px;
+}
+.common-form{
+	margin-top: 70px !important;
+}
+.video_views a{
+	margin-bottom: 7px !important;
+	display: inline-block;
+}
+.cards-head{
+    font-size: 24px;
+    margin-bottom: 25px;
+}
+.note-sec{
+	font-size: 20px;
+}
+.card-title{
+	font-size: 22px;
+}
+.card-details h5{
+	font-size: 18px;
+}
+.input-group-signup input{
+	height:48px;
+}
+.jp-card-container{
+	max-width: 650px !important;
+    height: 275px !important;
+}
+.jp-card.jp-card-identified{
+	margin-top: 20px !important;
+}
+.circle{
+	height: 190px !important;
+	width: 190px !important;
+	margin: auto auto 30px auto !important;
+}
+.circle__content{
+	font-size: 1.5em !important;
+}
+.redeem-content{
+	font-size: 1.3em;
+	margin: 2.5em 0 1em 0 !important;
+}
+.label{
+	padding:.4em 1em;
+	font-size: 80%;
+}
+.sub-history h3{
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+.sub-history p{
+	font-size: 18px;
+}
+.sub-head h4{
+	font-size: 22px;
+}
+.sub-head p{
+	font-size: 18px;
+}
+.sub-desc{
+	height: 108px;
+}
+.sub-desc p{
+	font-size: 18px;
+}
+.sub-deatils{
+	font-size: 18px;
+}
+.ppv-video{
+	height: 170px;
+}
+.ppv-title{
+	font-size: 18px;
+	padding: 12px;
+}
+.ppv-view{
+	margin-top: 82px;
+	font-size: 18px;
+}
+.ppv-details p{
+	font-size: 18px;
+}
+.ppv-details{
+	padding: 15px;
+}
+.sugg-head1{
+	font-size: 22px;
+	padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+.suggn-title h5{
+	font-size: 16px;
+	margin-bottom: 7px;
+}
+.sugg-head .stars{
+	margin-top: 6px;
+    display: inline-block;
+}
+.title h3{
+	font-size: 22px;
+}
+.views{
+	font-size: 20px;
+	padding-top: 12px;
+}
+.thumb-class, .share-new{
+	font-size: 20px;
+}
+.mylist{
+	font-size: 20px;
+	line-height:unset;
+}
+.username{
+	font-size: 19px;
+}
+.video-desc, .category-name{
+	font-size: 19px !important;
+	line-height: 1.4;
+}
+.star-rating-active s, .star-rating-rtl-active s{
+	font-size: 16px;
+}
+#comment_form textarea{
+	font-size: 18px;
+	height: 80px !important;
+}
+.profile-button .dropdown-menu {
+    left: -160px;
+    font-size: 16px;
+    min-width: 200px;
+}
+.share-title{
+	font-size: 22px;	
+}
+.copy-embed .modal-title, .video-title1{
+	font-size: 24px;
+}
+.coupon-code{
+	height: 45px;
+	margin-bottom: 25px;
+}
+.coupon-code input{
+	height: 45px;
+}
+.new-subcription-history .space{
+	padding: 17px;
+}
+.new-subcription-history .space h4{
+	font-size: 22px;
+}
+.new-subcription-history .link, .new-subcription-history .price .period, .new-subcription-history h5,
+.subscription-desc-list p{
+	font-size:16px;
+}
+.new-subcription-history .subscription-height{
+	height: 280px;
+}
+.upload-video-sec, .new-subs-card, .settings-card, .new-redeem-sec, .ppv-dashboard{
+	font-size: 18px;
+}
+}
+
+@media (min-width: 1920px) and (max-width: 2559px) {
+.test img{
+    height: 44px;
+    margin-left: 10px;
+}
+.signup-nav{
+	padding: 20px;
+}
+.login-space{
+	padding:175px 15px 90px 15px;
+}
+.common-form{
+	max-width: 700px;
+}
+.login-common{
+	padding: 45px;
+}
+.signup-head h3{
+	font-size: 36px;
+	margin-bottom:30px;
+}
+.signup-form label{
+	font-size: 24px;
+	margin-bottom: 15px;
+}
+.signup-form input{
+	height: 54px;
+	font-size:20px;
+	margin-bottom: 30px;
+}
+.signup-form p{
+	font-size: 20px;
+}
+.signup-submit{
+	padding: 18px;
+	font-size:20px;
+	margin-bottom: 30px;
+}
+.tube-image img {
+    width:auto;
+    height: 44px;
+    margin-top: 2px;
+}
+.term li a{
+	font-size: 20px;
+}
+.streamtube-nav{
+	padding:20px;
+}
+.y-menu{
+	padding-top:97px;
+}
+.page-inner{
+	padding-top:97px;
+}
+.logo-img{
+	max-width: 192px;
+    height: 45px;
+    vertical-align: middle;
+    margin-top:5px;
+    margin-left: 20px;
+}
+.toggle-icon{
+	margin-top:4px;
+	height:40px;
+}
+.y-signin{
+	font-size: 18px;
+    margin-top: 2px;
+    padding: 10px 20px;
+	height: 48px;
+}
+.btn{
+	font-size: 18px;
+    margin-top: 2px;
+    padding: 10px 20px;
+	height: 50px;
+}
+.clear-button button{
+	font-size: 20px;
+    padding: 13px 30px;
+    margin-bottom: 20px;
+}
+#search_submit_btn {
+	margin-top: 6px !important;
+	left: -28px !important;
+	
+}
+#custom-search-input .search-query{
+	font-size: 20px;
+    height: 45px;
+    margin-top: 6px;
+}
+#update_video {
+	height:51px !important;
+}
+.y-home img{
+	height:40px;
+	width:40px;
+}
+.y-home a{
+	font-size: 22px;
+	padding:15px 40px;
+}
+.menu4 p{
+	margin-top: 20px;
+	font-size: 22px;
+}
+.y-home h3, .menu-foot h3, .menu-foot-head{
+	font-size:22px;
+	padding: 20px 40px;
+	line-height:2;
+}
+.menu-foot img{
+	height:60px;
+}
+.menu4 button{
+	padding:6px 15px;
+    font-size:22px;
+    margin-top:20px;
+}
+.menu-foot li{
+	padding: 0 40px;
+}
+.nav-space{
+	padding: 0 40px;
+}
+.carousel-inner .item{
+	background-size: cover;
+	background-position: center;
+	height:400px;
+	background-repeat:no-repeat;
+	width: 100%;
+}
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev{
+	width: 45px;
+    height: 45px;
+    margin-top: -10px;
+    font-size: 45px;
+}
+.banner-slider{
+	padding:0 80px;
+	margin-top:25px;
+}
+.slide-area{
+	padding: 0 60px !important;
+}
+.slide-area1{
+	padding: 0 45px !important;
+}
+.box-head h3{
+	margin: 25px 0 25px 4px;
+	font-size: 25px;
+}
+.slide-image{
+	height: 100% !important;
+}
+.video_duration, .video_amount{
+	font-size: 17px;
+	padding:5px 10px;
+}
+.video-head a{
+	font-size: 1.6em !important;
+	line-height:28px;
+	margin-bottom:13px;
+}
+.video_views{
+	font-size: 20px;
+}
+.slick-prev, .slick-next{
+	height: 70px;
+	width: 70px;
+}
+.slick-prev{
+	left: -50px;
+}
+.slick-next{
+	right: -50px;
+}
+.slick-prev:before, .slick-next:before{
+	font-size: 30px;
+}
+.recom-box{
+	margin-top:25px;
+}
+.recom-head h3{
+	padding:25px 13px;
+	padding-bottom: 0;
+	margin:0;
+}
+.recom-details{
+	height:123px;
+}
+.content-head h4{
+	font-size: 28px;
+	margin-top:20px;
+	margin-bottom:30px;
+}
+.content-head{
+	margin-bottom:30px;
+}
+.history-image{
+	max-height:160px;
+}
+.history-head h5 a{
+	font-size: 1.75em;
+}
+.history-head h5{
+	margin-bottom:15px !important;
+}
+.description p{
+	font-size: 20px;
+	margin-top:10px;
+	line-height: 28px;
+	max-height: 53px;
+	margin-bottom: 12px
+}
+.sub-list{
+	padding-bottom:30px;
+	margin-bottom: 30px;
+}
+.st_video_upload_btn{
+	font-size:19px;
+	padding:10px 20px;
+}
+.video-views-channel-name{
+	/*margin-bottom:9px;*/
+}
+.cross-mark1 i{
+	font-size:20px;
+}
+.channel-header-profile-image1{
+	background-size: cover;
+	height:80px;
+	width:80px;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+	margin:15px 0 15px 45px;
+}
+.st_channel_heading{
+	margin:18px 0 0 0;
+	font-size: 1.7em !important;
+}
+.subscriber-count{
+	font-size:20px;
+}
+.btn-space{
+	margin:25px 45px 15px 10px;
+}
+.yt-card{
+	margin-right: -60px !important;
+	margin-left: -60px !important;
+}
+.st_video_upload_btn{
+	padding:13px 25px;
+	font-size: 18px;
+}
+#channel-subheader li > a, #channel-subheader .active > a{
+	font-size: 17px !important;
+	height:40px !important;
+}
+.branded-page-gutter-padding{
+	padding-top: 15px;
+	padding-left: 45px !important;
+	padding-right: 45px !important;
+}
+.branded-page-module-title{
+	margin-top: 35px;
+    margin-bottom: 10px;
+    font-size: 22px !important;
+}
+.new-history1{
+	padding-top:15px;
+}
+.abt-sec-head h5{
+	padding-top:35px;
+	font-size: 20px !important;
+	line-height: 34px !important;
+}
+#c4-header-bg-container{
+	height: 330px !important;
+}
+.content-head small{
+	font-size: 20px !important;
+}
+.label-sec{
+	margin-bottom: 15px;
+	margin-top:15px;
+}
+.label-sec .label{
+	font-size:110% !important;
+	padding: .6em .8em .6em !important;
+}
+.edit-head{
+	font-size:32px;
+	margin-bottom:25px;
+}
+.profile-title h3{
+	font-size:30px;
+}
+.profile-title h4{
+	font-size:21px;
+	margin-bottom:18px;
+}
+.profile-title p{
+	font-size:18px;
+    margin-bottom:14px;
+}
+.edit-pro-btn a{
+	padding:15px 25px;
+	font-size:20px;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
+	padding:14px !important;
+	font-size: 20px;
+}
+.invoice-desc p{
+	font-size:20px;
+}
+.invoice1 .black-clr{
+ 	font-size:26px; 
+}
+.radio1{
+	font-size: 18px;
+}
+.payment-failure h4{
+	font-size: 26px;
+}
+.payment-failure p{
+	font-size: 20px;
+}
+.list-style li{
+	font-size: 20px;
+}
+.profile-view h3{
+	font-size:36px;
+	margin-bottom: 20px;
+}
+.subscription-image{
+	height:22em !important;
+}
+.caption h3{
+	font-size:30px;
+}
+.subscription-desc p{
+	font-size:20px;
+}
+.subscription-desc{
+	min-height: 175px;
+	max-height: 175px;
+}
+.mylist-head{
+	font-size:28px;
+	padding-bottom: 15px;
+	margin-bottom: 20px;
+}
+.history-image{
+	min-height: 190px;
+	max-height: 190px;
+}
+.history-image img {
+    width: 100%;
+    height: 100%;
+    min-height: 130px;
+    object-fit: cover;
+    object-position: center;
+}
+.editform-content label{
+	font-size:20px;
+    margin-bottom: 10px;
+}
+.editform-content .form-control{
+	height:55px;
+}
+.editform-content .btn.btn-primary, .editform-content .btn.btn-danger{
+	padding:15px 25px;
+	font-size:20px;
+}
+.help-block, .mobile-note{
+	font-size:20px;
+	margin-bottom: 15px;
+}
+.common-form{
+	margin-top: 70px !important;
+}
+.video_views a{
+	margin-bottom: 8px !important;
+	display: inline-block;
+}
+.cards-head{
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+.note-sec{
+	font-size: 22px;
+}
+.card-title{
+	font-size: 24px;
+}
+.card-details h5{
+	font-size: 20px;
+}
+.input-group-signup input{
+	height:52px;
+}
+.jp-card-container{
+	max-width: 650px !important;
+    height: 275px !important;
+}
+.jp-card.jp-card-identified{
+	margin-top: 20px !important;
+}
+.circle{
+	height: 210px !important;
+	width: 210px !important;
+	margin: auto auto 40px auto !important;
+}
+.circle__content{
+	font-size: 1.7em !important;
+}
+.redeem-content{
+	font-size: 1.3em;
+	margin: 2.5em 0 1em 0 !important;
+}
+.label{
+	padding:.5em 1.4em;
+	font-size: 80%;
+}
+.sub-history p{
+	font-size: 20px;
+}
+.sub-head h4{
+	font-size: 24px;
+}
+.sub-head p{
+	font-size: 20px;
+}
+.sub-desc{
+	height: 130px;
+}
+.sub-desc p{
+	font-size: 20px;
+}
+.sub-deatils{
+	font-size: 20px;
+}
+.ppv-video{
+	height: 190px;
+}
+.ppv-title{
+	font-size: 20px;
+	padding: 14px;
+}
+.ppv-view{
+	margin-top: 92px;
+	font-size:20px;
+}
+.ppv-details p{
+	font-size: 20px;
+}
+.ppv-details{
+	padding: 20px;
+}
+.sugg-head1{
+	font-size: 22px;
+	padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+.suggn-title h5{
+	font-size: 18px;
+	margin-bottom: 7px;
+}
+.sugg-head .stars{
+	margin-top: 6px;
+    display: inline-block;
+}
+.title h3{
+	font-size: 24px;
+}
+.views{
+	font-size: 22px;
+	padding-top: 12px;
+}
+.thumb-class, .share-new{
+	font-size: 22px;
+}
+.mylist{
+	font-size: 22px;
+	line-height:unset;
+}
+.username{
+	font-size:21px;
+}
+.video-desc, .category-name{
+	font-size: 21px !important;
+	line-height: 1.4;
+}
+.star-rating-active s, .star-rating-rtl-active s{
+	font-size: 18px;
+}
+#comment_form textarea{
+	font-size: 20px;
+	height: 85px !important;
+}
+.profile-button .dropdown-menu {
+    left: -195px;
+    font-size: 18px;
+    min-width: 225px;
+}
+.share-title{
+	font-size: 24px;	
+}
+.copy-embed .modal-title, .video-title1{
+	font-size: 26px;
+}
+.coupon-code{
+	height: 50px;
+	margin-bottom: 25px;
+}
+.coupon-code input{
+	height: 50px;
+}
+.new-subcription-history .space{
+	padding: 19px;
+}
+.new-subcription-history .space h4{
+	font-size: 24px;
+}
+.new-subcription-history .link, .new-subcription-history .price .period, .new-subcription-history h5,
+.subscription-desc-list p{
+	font-size:18px;
+}
+.new-subcription-history .subscription-height{
+	height: 300px;
+}
+.upload-video-sec, .new-subs-card, .settings-card, .new-redeem-sec, .ppv-dashboard{
+	font-size: 20px;
+}
+}
+
+@media screen and (min-width: 2560px){
+.test img{
+    height: 44px;
+    margin-left: 10px;
+}
+.signup-nav{
+	padding: 20px;
+}
+.login-space{
+	padding:175px 15px 90px 15px;
+}
+.common-form{
+	max-width: 780px;
+}
+.login-common{
+	padding:50px;
+}
+.signup-head h3{
+	font-size:40px;
+	margin-bottom:30px;
+}
+.signup-form label{
+	font-size: 26px;
+	margin-bottom: 15px;
+}
+.signup-form input{
+	height: 58px;
+	font-size:22px;
+	margin-bottom: 35px;
+}
+.signup-form p{
+	font-size: 22px;
+}
+.signup-submit{
+	padding:20px;
+	font-size:22px;
+	margin-bottom: 35px;
+}
+.tube-image img {
+    width:auto;
+    height: 44px;
+    margin-top: 2px;
+}
+.term li a{
+	font-size: 22px;
+}
+.streamtube-nav{
+	padding:20px;
+}
+.y-menu{
+	padding-top:97px;
+}
+.page-inner{
+	padding-top:97px;
+}
+.logo-img{
+	max-width: 192px;
+    height: 45px;
+    vertical-align: middle;
+    margin-top:5px;
+    margin-left: 20px;
+}
+.toggle-icon{
+	margin-top:4px;
+	height:40px;
+}
+.y-signin .btn{
+	font-size: 20px;
+    margin-top: 2px;
+    padding: 13px 30px;
+}
+.clear-button button{
+	font-size: 20px;
+    padding: 13px 30px;
+    margin-bottom: 20px;
+}
+#custom-search-input .search-query{
+	font-size: 20px;
+    height: 54px;
+    margin-top: -1px;
+}
+.y-home a{
+	font-size: 22px;
+	padding: 15px 40px;
+}
+.menu4 p{
+	margin-top: 20px;
+	font-size: 22px;
+}
+.y-home h3, .menu-foot h3, .menu-foot-head{
+	font-size:22px;
+	line-height:2;
+}
+.menu-foot img{
+	height:60px;
+}
+.menu4 button{
+	padding:6px 15px;
+    font-size:22px;
+    margin-top:20px;
+}
+.y-home img{
+	height:40px;
+	width:40px;
+}
+.y-home a{
+	font-size: 22px;
+	padding: 20px 40px;
+}
+.menu4 p{
+	margin-top: 20px;
+	font-size: 22px;
+}
+.y-home h3, .menu-foot h3, .menu-foot-head{
+	font-size:22px;
+	padding: 20px 40px;
+	line-height:2;
+}
+.menu-foot img{
+	height:60px;
+}
+.menu4 button{
+	padding:6px 15px;
+    font-size:22px;
+    margin-top:20px;
+}
+.menu-foot li{
+	padding: 0 40px;
+}
+.nav-space{
+	padding: 0 40px;
+}
+.carousel-inner .item{
+	background-size: cover;
+	background-position: center;
+	height:400px;
+	background-repeat:no-repeat;
+	width: 100%;
+}
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev{
+	width: 45px;
+    height: 45px;
+    margin-top: -10px;
+    font-size: 45px;
+}
+.banner-slider{
+	padding:0 80px;
+	margin-top: 25px;
+}
+.slide-area]{
+	padding: 0 60px !important;
+}
+.slide-area1{
+	padding: 0 45px !important;
+}
+.box-head h3{
+	margin: 25px 0 25px 4px;
+	font-size: 25px;
+}
+.slide-image{
+	height: 180px !important;
+}
+.video_duration, .video_amount{
+	font-size: 17px;
+	padding:5px 10px;
+}
+.video-head a{
+	font-size: 1.6em !important;
+	line-height:27px;
+	margin-bottom:13px;
+}
+.video_views{
+	font-size: 20px;
+}
+.slick-prev, .slick-next{
+	height: 70px;
+	width: 70px;
+}
+.slick-prev{
+	left: -50px;
+}
+.slick-next{
+	right: -50px;
+}
+.slick-prev:before, .slick-next:before{
+	font-size: 34px;
+}
+.recom-box{
+	margin-top:20px;
+}
+.recom-head h3{
+	padding:20px 13px;
+	padding-bottom: 0;
+	margin:0;
+}
+.recom-details{
+	height:123px;
+}
+.content-head h4{
+	font-size: 28px;
+	margin-top:20px;
+	margin-bottom:30px;
+}
+.content-head{
+	margin-bottom:30px;
+}
+.history-image{
+	max-height:160px;
+}
+.history-head h5 a{
+	font-size: 1.75em;
+}
+.history-head h5{
+	margin-bottom:15px !important;
+}
+.description p{
+	font-size: 20px;
+	margin-top:10px;
+	line-height: 28px;
+	max-height: 53px;
+	margin-bottom: 12px;
+}
+.sub-list{
+	padding-bottom:30px;
+	margin-bottom: 30px;
+}
+.st_video_upload_btn{
+	font-size:19px;
+	padding:10px 20px;
+}
+.video-views-channel-name{
+	/*margin-bottom:9px;*/
+}
+.cross-mark1 i{
+	font-size:20px;
+}
+.channel-header-profile-image1{
+	background-size: cover;
+	height:80px;
+	width:80px;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+	margin:15px 0 15px 45px;
+}
+.st_channel_heading{
+	margin:18px 0 0 0;
+	font-size: 1.7em !important;
+}
+.subscriber-count{
+	font-size:20px;
+}
+.btn-space{
+	margin:25px 45px 15px 10px;
+}
+.yt-card{
+	margin-right: -60px !important;
+	margin-left: -60px !important;
+}
+.st_video_upload_btn{
+	padding:13px 25px;
+	font-size: 18px;
+}
+#channel-subheader li > a, #channel-subheader .active > a{
+	font-size: 17px !important;
+	height:40px !important;
+}
+.branded-page-gutter-padding{
+	padding-top: 15px;
+	padding-left: 45px !important;
+	padding-right: 45px !important;
+}
+.branded-page-module-title{
+	margin-top: 35px;
+    margin-bottom: 10px;
+    font-size: 22px !important;
+}
+.new-history1{
+	padding-top:15px;
+}
+.abt-sec-head h5{
+	padding-top: 35px;
+	font-size: 22px !important;
+	line-height: 34px !important;
+}
+#c4-header-bg-container{
+	height: 330px !important;
+}
+.content-head small{
+	font-size: 22px !important;
+}
+.label-sec{
+	margin-bottom: 15px;
+	margin-top:15px;
+}
+.label-sec .label{
+	font-size:110% !important;
+	padding: .6em .8em .6em !important;
+}
+.edit-head{
+	font-size:32px;
+	margin-bottom:25px;
+}
+.profile-title h3{
+	font-size:30px;
+}
+.profile-title h4{
+	font-size:21px;
+	margin-bottom:18px;
+}
+.profile-title p{
+	font-size:18px;
+    margin-bottom:14px;
+}
+.edit-pro-btn a{
+	padding:15px 25px;
+	font-size:20px;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
+	padding:16px !important;
+	font-size: 20px;
+}
+.invoice-desc p{
+	font-size:22px;
+}
+.invoice1 .black-clr{
+ 	font-size:26px; 
+}
+.radio1{
+	font-size: 18px;
+}
+.payment-failure h4{
+	font-size: 26px;
+}
+.payment-failure p{
+	font-size: 20px;
+}
+.list-style li{
+	font-size: 20px;
+}
+.profile-view h3{
+	font-size:36px;
+	margin-bottom: 20px;
+}
+.subscription-image{
+	height:22em !important;
+}
+.caption h3{
+	font-size:30px;
+}
+.subscription-desc p{
+	font-size:20px;
+}
+.subscription-desc{
+	min-height: 175px;
+	max-height: 175px;
+}
+.mylist-head{
+	font-size:28px;
+	padding-bottom: 15px;
+	margin-bottom: 20px;
+}
+.history-image{
+	min-height: 190px;
+	max-height: 190px;
+}
+.history-image img {
+    width: 100%;
+    height: 100%;
+    min-height: 130px;
+    object-fit: cover;
+    object-position: center;
+}
+.editform-content label{
+	font-size:22px;
+    margin-bottom: 10px;
+}
+.editform-content .form-control{
+	height:55px;
+}
+.editform-content .btn.btn-primary, .editform-content .btn.btn-danger{
+	padding:15px 25px;
+	font-size:22px;
+}
+.help-block, .mobile-note{
+	font-size:22px;
+	margin-bottom: 15px;
+}
+.common-form{
+	margin-top: 70px !important;
+}
+.video_views a{
+	margin-bottom: 8px !important;
+	display: inline-block;
+}
+.cards-head{
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+.note-sec{
+	font-size: 22px;
+}
+.card-title{
+	font-size: 24px;
+}
+.card-details h5{
+	font-size: 20px;
+}
+.input-group-signup input{
+	height:52px;
+}
+.jp-card-container{
+	max-width: 650px !important;
+    height: 275px !important;
+}
+.jp-card.jp-card-identified{
+	margin-top: 20px !important;
+}
+.circle{
+	height: 210px !important;
+	width: 210px !important;
+	margin: auto auto 40px auto !important;
+}
+.circle__content{
+	font-size: 1.7em !important;
+}
+.redeem-content{
+	font-size: 1.3em !important;
+	margin: 2.5em 0 1em 0 !important;
+}
+.label{
+	padding:.5em 1.4em;
+	font-size: 80%;
+}
+.sub-history p{
+	font-size: 20px;
+}
+.sub-head h4{
+	font-size: 24px;
+}
+.sub-head p{
+	font-size: 20px;
+}
+.sub-desc{
+	height: 130px;
+}
+.sub-desc p{
+	font-size: 20px;
+}
+.sub-deatils{
+	font-size: 20px;
+}
+.ppv-video{
+	height: 190px;
+}
+.ppv-title{
+	font-size: 20px;
+	padding: 14px;
+}
+.ppv-view{
+	margin-top: 92px;
+	font-size:20px;
+}
+.ppv-details p{
+	font-size: 20px;
+}
+.ppv-details{
+	padding: 20px;
+}
+.sugg-head1{
+	font-size: 22px;
+	padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+.suggn-title h5{
+	font-size: 18px;
+	margin-bottom: 7px;
+}
+.sugg-head .stars{
+	margin-top: 6px;
+    display: inline-block;
+}
+.views{
+	font-size: 22px;
+	padding-top: 12px;
+}
+.thumb-class, .share-new{
+	font-size: 22px;
+}
+.mylist{
+	font-size: 22px;
+	line-height:unset;
+}
+.username{
+	font-size:21px;
+}
+.video-desc, .category-name{
+	font-size: 21px !important;
+	line-height: 1.4;
+}
+.star-rating-active s, .star-rating-rtl-active s{
+	font-size: 18px;
+}
+#comment_form textarea{
+	font-size: 20px;
+	height: 85px !important;
+}
+.profile-button .dropdown-menu {
+    left: -195px;
+    font-size: 18px;
+    min-width: 225px;
+}
+.share-title{
+	font-size: 26px;	
+}
+.copy-embed .modal-title, .video-title1{
+	font-size: 28px;
+}
+.coupon-code{
+	height: 55px;
+	margin-bottom: 25px;
+}
+.coupon-code input{
+	height: 55px;
+}
+.new-subcription-history .space{
+	padding: 19px;
+}
+.new-subcription-history .space h4{
+	font-size: 24px;
+}
+.new-subcription-history .link, .new-subcription-history .price .period, .new-subcription-history h5,
+.subscription-desc-list p{
+	font-size:18px;
+}
+.new-subcription-history .subscription-height{
+	height: 300px;
+}
+.upload-video-sec, .new-subs-card, .settings-card, .new-redeem-sec, .ppv-dashboard{
+	font-size: 22px;
+}
+}
+@media (min-width: 1200px) and (max-width: 1440px) {
+.y-signin{
+    font-size: 12px;
+    margin-top: 2px;
+    padding: 12px 5px;
+    height: 42px;
+}
+.btn {
+    font-size: 12px;
+    margin-top: 2px;
+    padding: 4px 5px;
+    height: 42px;
+}
+#custom-search-input .search-query {
+    font-size: 12px;
+    height: 41px;
+    margin-top: 3px;
+}
+#custom-search-input {
+    width: 130px;
+}
+#update_video {
+	height:44px !important;
+}
+#search_submit_btn {
+	margin-top: 4px !important;
+	left: -23px !important;
+	
+}
+}
+@media (min-width: 1401px) and (max-width: 1679px) {
+.y-signin{
+    font-size: 12px;
+    margin-top: 2px;
+    padding: 15px 5px;
+    height: 46px;
+}
+.btn {
+    font-size: 12px;
+    margin-top: 2px;
+    padding: 4px 5px;
+    height: 46px;
+}
+#custom-search-input .search-query {
+    font-size: 12px;
+    height: 41px;
+    margin-top: 3px;
+}
+#custom-search-input {
+    width: 180px;
+}
+#update_video {
+	height:48px !important;
+}
+#search_submit_btn {
+	margin-top: 0px !important;
+	left: -22px !important;
+}
+}

@@ -1,0 +1,65 @@
+.dropzone {
+    background:#f0ad4e54;
+}
+.dz-remove {
+    color: red !important;
+    /* display:none !important; */
+}
+#create_new_directory {
+    cursor: pointer;
+}
+.folder_img {
+    width: 90%;
+    cursor: pointer;
+}
+.folder_create_img {
+    width: 15%;
+    cursor: pointer;
+}
+.float-left {
+    float:left;
+}
+.active_folder {
+    border: 2px solid green;
+    border-radius: 25% 25%;
+}
+.directory {
+    width: 60px;
+}
+.move_files_links.active:parent {
+    border: 2px solid green;
+    border-radius: 25% 25%;
+}
+.site_icon {
+    width: 7%;
+}
+.site_icon_title {
+    width: 25%;
+}
+.input_file_val {
+    width: 400px;
+    height:25px;
+    position: relative;
+    top: 0;
+    left: 0;
+    font-size:13px;
+    line-height: 25px;
+    text-indent: 10px;
+    pointer-events: none;
+}
+.input_file_button {
+    cursor: pointer;
+    display: block;
+    width: 90px;
+    background-color: purple;
+    height:25px;
+    color: white;
+    position: relative;
+    right:0;
+    top: 0;
+    line-height:25px;
+    text-align: center;
+    -webkit-transition: 500ms all;
+    -moz-transition: 500ms all;
+    transition: 500ms all;
+}
